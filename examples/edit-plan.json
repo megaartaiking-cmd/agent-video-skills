@@ -1,0 +1,1 @@
+{"name":"Demo edit plan — trim, then warm grade","steps":[{"end":25,"input":"input.mp4","op":"trim","output":"trimmed.mp4","start":10},{"input":"trimmed.mp4","op":"color","output":"final.mp4","preset":"warm"}]}
